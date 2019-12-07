@@ -1,0 +1,3 @@
+//Cassidy Newberry project README
+
+For this project I used the JSON simple jar. The jar needs to be downloaded and then added as an external library in InteliJ. The project only uses imports that can be found in the JSON simple jar, like JSON parser and object. To execute the code the path of the tmdb data sets need to be given as a arguement in the command line. For example, I need to enter /Users/CassidyNewberry/Desktop/tmdb_5000_credits.csv in the arguments to run this project. 
